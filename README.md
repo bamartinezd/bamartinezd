@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamartinezd)](https://github.com/bamartinezd/github-readme-stats)
+[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamartinezd&theme=dark)](https://github.com/bamartinezd/github-readme-stats)
 
 
 <!--
